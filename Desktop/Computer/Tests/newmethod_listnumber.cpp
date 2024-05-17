@@ -22,6 +22,8 @@ class Myclass {
 // h : 1, e : 1, l:2
 
 //Thank you Rohan for helping me implement a hashmap to more efficiently search through characters.
+//Rest of the code has still not been fully implented to order the values.
+
 void count2(std::string& myText)
 {
     std::unordered_map<char, int> counts;
